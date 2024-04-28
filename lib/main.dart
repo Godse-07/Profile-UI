@@ -3,9 +3,9 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:user_profile/widgets/info_card.dart';
 import 'package:url_launcher/url_launcher.dart' as launcher;
 
-const url = 'https://www.linkedin.com/in/pushan-mukhopadhyay-2b326a243/';
-const email = 'mukhopadhyaypushan42@gmail.com';
-const phone = '9851449619';
+const url = 'https://www.linkedin.com/';
+const email = 'abc@gmail.com';
+const phone = 'xxxxxxxxxx';
 const location = 'Kolkata, India';
 
 void main() {
@@ -37,7 +37,7 @@ class Home extends StatelessWidget {
           children: [
             CircleAvatar(
               radius: 75,
-              backgroundImage: AssetImage('images/resume.jpg'),
+              backgroundImage: AssetImage('images/spider.jpg'),
             ),
             Text(
               "Pushan Mukhopadhyay",
