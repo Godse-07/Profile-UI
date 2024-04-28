@@ -18,7 +18,7 @@ To deploy this project run
   fork and clone the repo in your local system
 ```
 
-go to file location and run 
+go to file location and run (in terminal)
 
 ```bash
   flutter doctor
