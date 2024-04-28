@@ -5,7 +5,7 @@
 
 
 
-## Authors
+## Author
 
 - [@Godse-07](https://www.github.com/Godse-07)
 
@@ -32,4 +32,4 @@ open the project in Vs-code
   press F5 
 ```
 
-select emulator option will appear, select and wait for 1-2 min it will open the propject  
+select emulator option will appear, select and wait for 1-2 min it will open the project  
